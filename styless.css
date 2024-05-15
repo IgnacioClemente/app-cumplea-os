@@ -1,0 +1,8 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(206, 233, 55);
+}
+body{
+    background: rgb(74, 167, 220);
+}
